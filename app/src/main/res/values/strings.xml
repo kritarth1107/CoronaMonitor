@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Corona Monitor</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--
+    <string name="ads_application_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="ads_unit_id_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ads_unit_id_banner2">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ads_unit_id_int">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="ads_unit_id_int2">ca-app-pub-3940256099942544/1033173712</string> -->
+    <!--
+    <string name="api_host"></string>
+    <string name="api_key"></string> -->
+
+    <!-- original Keys -->
+    <string name="ads_application_id">ca-app-pub-6980247570907146~1819809281</string>
+    <string name="ads_unit_id_banner">ca-app-pub-6980247570907146/4254400934</string>
+    <string name="ads_unit_id_banner2">ca-app-pub-6980247570907146/8002074257</string>
+    <string name="ads_unit_id_int">ca-app-pub-6980247570907146/3242424368</string>
+    <string name="ads_unit_id_int2">ca-app-pub-6980247570907146/6880564276</string>
+
+
+</resources>

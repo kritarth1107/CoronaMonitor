@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    android:elevation="5dp"
+    android:gravity="center">
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/thumbnail"
+            android:layout_width="350dp"
+            android:layout_height="350dp"
+            android:src="@drawable/blue1"/>
+
+        <TextView
+            android:visibility="invisible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Share on social media:"
+            android:textColor="@android:color/black"
+            android:fontFamily="@font/poppins_regular"
+            android:layout_marginTop="20dp"
+            android:textSize="18sp"/>
+        <!--
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+                <ImageView
+                    android:id="@+id/facebookShare"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/ic_facebook"/>
+            <ImageView
+                android:id="@+id/whatsappShare"
+                android:layout_marginLeft="10dp"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/ic_whatsapp"/>
+
+            <ImageView
+                android:id="@+id/instagramShare"
+                android:layout_marginLeft="10dp"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/ic_instagram_sketched"/>
+
+        </LinearLayout> -->
+
+    </LinearLayout>
+
+</LinearLayout>

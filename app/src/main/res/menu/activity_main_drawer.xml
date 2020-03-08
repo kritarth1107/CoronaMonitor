@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="About App"
+        android:icon="@drawable/ic_arrow_forward"
+        android:id="@+id/nav_about" />
+    <item android:title="About Corona"
+        android:icon="@drawable/ic_arrow_forward"
+        android:id="@+id/nav_corona" />
+    <item android:title="Q&amp;A COVID-19"
+        android:icon="@drawable/ic_arrow_forward"
+        android:id="@+id/nav_qna" />
+    <item android:title="Support"
+        android:icon="@drawable/ic_arrow_forward"
+        android:id="@+id/nav_support" />
+    <item android:title="Share"
+        android:icon="@drawable/ic_arrow_forward"
+        android:id="@+id/nav_share" />
+</menu>
